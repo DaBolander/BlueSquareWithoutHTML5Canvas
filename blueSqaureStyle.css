@@ -1,0 +1,33 @@
+#blue-sqaure{			        
+	height: 200px;
+	background: #1E90FF;
+	top: 50%;
+	left: 50%;
+	width: 200px;
+	position: absolute;				
+}
+
+#yellow-square{
+	position: absolute;
+	background-color: yellow;
+	width: 100px;
+	height: 100px;
+	top: 25%;
+	left: 25%;
+}
+
+#blue-canvas{			        
+	height: 200px;
+	top: 50%;
+	left: 50%;
+	width: 200px;
+	position: absolute;				
+}
+
+#yellow-canvas{
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	top: 25%;
+	left: 25%;
+}
